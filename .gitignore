@@ -1,0 +1,8 @@
+gron
+*.tgz
+*.zip
+*.swp
+*.exe
+cpu.out
+gron.test
+
